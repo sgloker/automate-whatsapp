@@ -1,2 +1,5 @@
-Please contact smartgadget.info for details.
-M: +65 88049573
+flask
+twilio
+pymongo
+dnspython
+gunicorn
